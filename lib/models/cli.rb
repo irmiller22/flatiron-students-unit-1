@@ -89,7 +89,6 @@ puts "                              .--.                  Try not.
               puts "#{idx +1}: #{student.name}".ljust(50)
           end
         end
-        puts
         # system("say by the way you are super cool and everyone likes you")
     end
 
